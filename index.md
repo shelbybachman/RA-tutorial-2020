@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+# RA Tutorial, Fall 2020
 
-You can use the [editor on GitHub](https://github.com/shelbybachman/RA-tutorial-2020/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Schedule
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Week 1: Review of R basics
 
-### Markdown
+### Week 2: Data wrangling & exploration with the tidyverse, part I
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Week 3: Data wrangling & exploration with the tidyverse, part II
 
-```markdown
-Syntax highlighted code block
+### Week 4: R Markdown for reproducible reporting
 
-# Header 1
-## Header 2
-### Header 3
+### Week 5: Data visualization with ggplot2, part I
 
-- Bulleted
-- List
+### Week 6: Data visualization with ggplot2, part II
 
-1. Numbered
-2. List
+## Readings
 
-**Bold** and _Italic_ and `Code` text
+Healy, K. *Data Visualization: A practical introduction*. https://socviz.co/
 
-[Link](url) and ![Image](src)
-```
+Wickham, H. & Grolemund, G. *R for Data Science*. https://r4ds.had.co.nz/
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Other useful links
 
-### Jekyll Themes
+[swirl](https://swirlstats.com/students.html): learn R interactively
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/shelbybachman/RA-tutorial-2020/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[mycodingclub](https://ourcodingclub.github.io/tutorials.html): variety of R tutorials
