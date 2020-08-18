@@ -16,9 +16,9 @@
 
 ## Readings
 
-Healy, K. *Data Visualization: A practical introduction*. https://socviz.co/
+Healy, K. *Data Visualization: A practical introduction*. [https://socviz.co/](https://socviz.co/)
 
-Wickham, H. & Grolemund, G. *R for Data Science*. https://r4ds.had.co.nz/
+Wickham, H. & Grolemund, G. *R for Data Science*. [https://r4ds.had.co.nz/](https://r4ds.had.co.nz/)
 
 ## Other useful links
 
