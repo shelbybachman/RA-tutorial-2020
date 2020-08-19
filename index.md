@@ -23,17 +23,25 @@
 
 ### Week 3: Data wrangling & exploration with the tidyverse, part II
 
-### Week 4: R Markdown for reproducible reporting
+### Week 4: Data visualization with ggplot2, part I
 
-### Week 5: Data visualization with ggplot2, part I
+### Week 5: Data visualization with ggplot2, part II
 
-### Week 6: Data visualization with ggplot2, part II
+### Week 6: R Markdown for reproducible reporting
 
-## Books
+### week 7: Version control with Git & GitHub
+
+### Week 8: Practical
+
+### Week 9: Practical
+
+## Books & Resources
 
 Healy, K. *Data Visualization: A practical introduction*. [https://socviz.co/](https://socviz.co/)
 
 Wickham, H. & Grolemund, G. *R for Data Science*. [https://r4ds.had.co.nz/](https://r4ds.had.co.nz/)
+
+Bryan, J. & Hester, J. *Happy Git and GitHub for the useR*. [https://happygitwithr.com/](https://happygitwithr.com/)
 
 ## Useful links
 
