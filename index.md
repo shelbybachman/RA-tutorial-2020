@@ -5,8 +5,8 @@
 ### Week 1: Review of R basics
 
 **Tasks**
-- Make sure you have the latest versions of R and RStudio installed
-- Complete `R Programming` course in [swirl](https://swirlstats.com/students.html)
+- Make sure you have the latest versions of [R](https://www.r-project.org/) and [RStudio](https://rstudio.com/products/rstudio/) installed
+- Complete *R Programming* course in [swirl](https://swirlstats.com/students.html)
 
 **Readings**
 - R4DS, Chapter I (*Explore*)
