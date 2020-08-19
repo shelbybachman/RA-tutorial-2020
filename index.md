@@ -5,7 +5,7 @@
 ### Week 1: Review of R basics
 
 **Readings**
-- R for Data Science, Sections 1-4
+- *R for Data Science*, Sections 1-4
 
 **Tasks**
 - Make sure you have the latest versions of [R](https://www.r-project.org/) and [RStudio](https://rstudio.com/products/rstudio/) installed
@@ -14,12 +14,12 @@
 ### Week 2: Data wrangling & exploration with the tidyverse, part I
 
 **Readings**
-- R for Data Science, Sections 5-8
+- *R for Data Science*, Sections 5-8
 
 **Tasks**
 - Complete *Getting & Cleaning Data* course in [swirl](https://swirlstats.com/students.html)
 - Choose a publically available dataset to work with from [this site](http://archive.ics.uci.edu/ml/datasets.php?format=&task=&att=&area=&numAtt=&numIns=&type=&sort=taskDown&view=table)
-- Develop a list of questions about your dataset (e.g. R4DS, Section 7)
+- Develop a list of questions about your dataset (e.g. *R4DS*, Section 7)
 
 ### Week 3: Data wrangling & exploration with the tidyverse, part II
 
