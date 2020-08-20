@@ -18,8 +18,8 @@
 
 **Tasks**
 - Complete *Getting & Cleaning Data* course in [swirl](https://swirlstats.com/students.html)
-- Choose a publically available dataset to work with from [this site](http://archive.ics.uci.edu/ml/datasets.php?format=&task=&att=&area=&numAtt=&numIns=&type=&sort=taskDown&view=table)
 - Develop a list of questions about your dataset (e.g. *R4DS*, Section 7)
+- Write an R script which loads and does basic tidying of your dataset
 
 ### Week 3: Data wrangling & exploration with the tidyverse, part II
 
@@ -27,13 +27,17 @@
 
 ### Week 5: Data visualization with ggplot2, part II
 
-### Week 6: R Markdown for reproducible reporting
+### Week 6: R Markdown for reproducible reporting, part I
 
-### week 7: Version control with Git & GitHub
+### Week 7: R Markdown for reproducible reporting, part II
 
 ### Week 8: Practical
 
 ### Week 9: Practical
+
+### Week 10: Methods, TBA
+
+### Week 11: Methods, TBA
 
 ## Books & Resources
 
