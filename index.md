@@ -39,6 +39,8 @@
 
 Bryan, J. & Hester, J. *Happy Git and GitHub for the useR*. [https://happygitwithr.com/](https://happygitwithr.com/)
 
+Gandrud, C. (2020). *Reproducible Research with R and RStudio* (3rd edition). Chapman & Hall.
+
 Healy, K. *Data Visualization: A practical introduction*. [https://socviz.co/](https://socviz.co/)
 
 Wickham, H. & Grolemund, G. *R for Data Science*. [https://r4ds.had.co.nz/](https://r4ds.had.co.nz/)
@@ -48,3 +50,5 @@ Wickham, H. & Grolemund, G. *R for Data Science*. [https://r4ds.had.co.nz/](http
 [swirl](https://swirlstats.com/students.html): learn R interactively
 
 [mycodingclub](https://ourcodingclub.github.io/tutorials.html): variety of R tutorials
+
+[UCI ML database](http://archive.ics.uci.edu/ml/datasets.php?format=&task=&att=&area=&numAtt=&numIns=&type=&sort=taskDown&view=table): variety of sample datasets
