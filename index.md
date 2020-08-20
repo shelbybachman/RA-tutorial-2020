@@ -5,7 +5,7 @@
 ### Week 1: Review of R basics
 
 **Readings**
-- R for Data Science, Sections 1-4
+- *R for Data Science*, Sections 1-4
 
 **Tasks**
 - Make sure you have the latest versions of [R](https://www.r-project.org/) and [RStudio](https://rstudio.com/products/rstudio/) installed
@@ -14,22 +14,34 @@
 ### Week 2: Data wrangling & exploration with the tidyverse, part I
 
 **Readings**
-- R for Data Science, Sections 5-8
+- *R for Data Science*, Sections 5-8
 
 **Tasks**
 - Complete *Getting & Cleaning Data* course in [swirl](https://swirlstats.com/students.html)
-- Choose a publically available dataset to work with from [this site](http://archive.ics.uci.edu/ml/datasets.php?format=&task=&att=&area=&numAtt=&numIns=&type=&sort=taskDown&view=table)
-- Develop a list of questions about your dataset (e.g. R4DS, Section 7)
+- Develop a list of questions about your dataset (e.g. *R4DS*, Section 7)
+- Write an R script which loads and does basic tidying of your dataset
 
 ### Week 3: Data wrangling & exploration with the tidyverse, part II
 
-### Week 4: R Markdown for reproducible reporting
+### Week 4: Data visualization with ggplot2, part I
 
-### Week 5: Data visualization with ggplot2, part I
+### Week 5: Data visualization with ggplot2, part II
 
-### Week 6: Data visualization with ggplot2, part II
+### Week 6: R Markdown for reproducible reporting, part I
 
-## Books
+### Week 7: R Markdown for reproducible reporting, part II
+
+### Week 8: Practical
+
+### Week 9: Practical
+
+### Week 10: Methods, TBA
+
+### Week 11: Methods, TBA
+
+## Books & Resources
+
+Gandrud, C. (2020). *Reproducible Research with R and RStudio* (3rd edition). Chapman & Hall.
 
 Healy, K. *Data Visualization: A practical introduction*. [https://socviz.co/](https://socviz.co/)
 
@@ -40,3 +52,5 @@ Wickham, H. & Grolemund, G. *R for Data Science*. [https://r4ds.had.co.nz/](http
 [swirl](https://swirlstats.com/students.html): learn R interactively
 
 [mycodingclub](https://ourcodingclub.github.io/tutorials.html): variety of R tutorials
+
+[UCI ML database](http://archive.ics.uci.edu/ml/datasets.php?format=&task=&att=&area=&numAtt=&numIns=&type=&sort=taskDown&view=table): variety of sample datasets
