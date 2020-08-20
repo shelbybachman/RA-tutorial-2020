@@ -41,8 +41,6 @@
 
 ## Books & Resources
 
-Bryan, J. & Hester, J. *Happy Git and GitHub for the useR*. [https://happygitwithr.com/](https://happygitwithr.com/)
-
 Gandrud, C. (2020). *Reproducible Research with R and RStudio* (3rd edition). Chapman & Hall.
 
 Healy, K. *Data Visualization: A practical introduction*. [https://socviz.co/](https://socviz.co/)
