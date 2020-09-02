@@ -19,7 +19,7 @@
 **Tasks**
 - Complete *Getting & Cleaning Data* course in [swirl](https://swirlstats.com/students.html)
 - Develop a list of questions about your dataset (e.g. *R4DS*, Section 7)
-- Write an R script which loads and does basic tidying of your dataset
+- Write an R script which loads your dataset
 
 ### Week 3: Data wrangling & exploration with the tidyverse, part II
 
