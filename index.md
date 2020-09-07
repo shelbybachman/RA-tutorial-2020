@@ -23,6 +23,18 @@
 
 ### Week 3: Data wrangling & exploration with the tidyverse, part II
 
+**Readings**
+- *R for Data Science*, Sections 12, 14 & 15
+
+**Tasks**
+- Write an R script which transforms your data (i.e. using `filter()`, `select()`, `mutate()` & `summarize()`; *R4DS*, Section 5). For this task, keep the following in mind:
+  - Data should be tidy (see *R4DS*, Section 12)
+  - Data should be transformed so as to answer the questions you developed last week
+- In the script you create, include steps to explore and handle missing values (see *R4DS*, Section 12.5). Key questions to consider for this task are:
+  - Are there missing values in your data? Are missing values represented in a consistently, or are there multiple placeholders for missing values? 
+  - Can you replace missing values with `NA` in an efficient way?
+  - Are there patterns of missingness that you can detect? Might these be meaningful?
+
 ### Week 4: Data visualization with ggplot2, part I
 
 ### Week 5: Data visualization with ggplot2, part II
