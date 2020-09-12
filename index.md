@@ -41,7 +41,8 @@
 - *Data Visualization*, Chapters 1 & 3
 
 **Tasks**
-- Complete *Exploratory Data Analysis* course in [swirl](https://swirlstats.com/students.html)
+- Complete *Exploratory Data Analysis* course in [swirl](https://swirlstats.com/students.html) (stop at 
+"Hierarchical Clustering")
 - Develop a list of visualizations you would like to create to illustrate effects of interest in your dataset
 - Write an R script which creates relevant summaries of your data, using the `group_by()` and `summarize()` functions (i.e. *R4DS*, Section 5)
 - If you have time, try creating a few basic visualizations using `ggplot2`
