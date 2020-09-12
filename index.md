@@ -27,7 +27,7 @@
 - *R for Data Science*, Sections 12, 14 & 15
 
 **Tasks**
-- Write an R script which transforms your data (i.e. using `filter()`, `select()`, `mutate()` & `summarize()`; *R4DS*, Section 5). For this task, keep the following in mind:
+- Write an R script which transforms your data (i.e. using `filter()`, `select()`, & `mutate()`; *R4DS*, Section 5). For this task, keep the following in mind:
   - Data should be tidy (see *R4DS*, Section 12)
   - Data should be transformed so as to answer the questions you developed last week
 - In the script you create, include steps to explore and handle missing values (see *R4DS*, Section 12.5). Key questions to consider for this task are:
@@ -36,6 +36,15 @@
   - Are there patterns of missingness that you can detect? Might these be meaningful?
 
 ### Week 4: Data visualization with ggplot2, part I
+
+**Readings**
+- *Data Visualization*, Chapters 1 & 3
+
+**Tasks**
+- Complete *Exploratory Data Analysis* course in [swirl](https://swirlstats.com/students.html)
+- Develop a list of visualizations you would like to create to illustrate effects of interest in your dataset
+- Write an R script which creates relevant summaries of your data, using the `group_by()` and `summarize()` functions (i.e. *R4DS*, Section 5)
+- If you have time, try creating a few basic visualizations using `ggplot2`
 
 ### Week 5: Data visualization with ggplot2, part II
 
