@@ -69,6 +69,10 @@ Healy, K. *Data Visualization: A practical introduction*. [https://socviz.co/](h
 
 Wickham, H. & Grolemund, G. *R for Data Science*. [https://r4ds.had.co.nz/](https://r4ds.had.co.nz/)
 
+## Demos
+
+[example_script.R](https://drive.google.com/file/d/1aBXjcbxlCJy8HSl7hnBTpQC__XKvrYh8/view?usp=sharing)
+
 ## Useful links
 
 [swirl](https://swirlstats.com/students.html): learn R interactively
