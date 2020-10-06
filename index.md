@@ -49,7 +49,22 @@
 
 ### Week 5: Data visualization with ggplot2, part II
 
+**Readings**
+- *Data Visualization*, Chapters 4, 5 & 8
+- *R for Data Science*, Section 28 (review)
+
+**Tasks**
+- Apply what you have learned from the readings on `ggplot2` to plots for your dataset to improve aesthetics of your plots and add functionality such as grouping and facets
+- Try using `ggplot2` to create different kinds of plots from those which you have made already, using a dataset at [this site](https://github.com/rfordatascience/tidytuesday)
+
 ### Week 6: R Markdown for reproducible reporting, part I
+
+**Readings**
+- *R for Data Science*, Section 27
+- *Reproducible Research with R and RStudio*, Chapters 1, 2, 3 & 10
+
+**Tasks**
+- Create an R markdown document (and knitted html report) which organizes and displays all the code and figures you created for your datase
 
 ### Week 7: R Markdown for reproducible reporting, part II
 
