@@ -68,6 +68,14 @@
 
 ### Week 7: R Markdown for reproducible reporting, part II
 
+**Readings**
+- *Reproducible Research with R and RStudio*, Chapter 12
+- *R for Data Science*, Section 29
+
+**Tasks**
+- Review [this tutorial](https://ourcodingclub.github.io/tutorials/rmarkdown/) to make sure you are comfortable with (a) markdown syntax and (b) R markdown basics
+- Finalize your markdown document: apply a (non-default) theme to your R markdown report, be sure that each chunk of code is visible (along with its output), organize your document into logical sections labeled with headers and subheaders, and add (markdown-flavored) text to describe what each chunk of your code does. Be sure that the figures you create are a reasonable size.
+
 ### Week 8: Practical
 
 ### Week 9: Practical
