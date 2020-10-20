@@ -76,7 +76,16 @@
 - Review [this tutorial](https://ourcodingclub.github.io/tutorials/rmarkdown/) to make sure you are comfortable with (a) markdown syntax and (b) R markdown basics
 - Finalize your markdown document: apply a (non-default) theme to your R markdown report, be sure that each chunk of code is visible (along with its output), organize your document into logical sections labeled with headers and subheaders, and add (markdown-flavored) text to describe what each chunk of your code does. Be sure that the figures you create are a reasonable size.
 
-### Week 8: Practical
+### Week 8: Distributions & descriptive statistics
+
+**Readings**
+- [This tutorial](https://tinystats.github.io/teacups-giraffes-and-statistics/02_bellCurve.html) on the normal distribution
+- [This tutorial](https://tinystats.github.io/teacups-giraffes-and-statistics/03_mean.html) on measures of central tendency
+- [This tutorial](https://tinystats.github.io/teacups-giraffes-and-statistics/04_variance.html) on measures of spread
+
+**Tasks**
+- Write some R code to apply methods from the readings to visualize and understand distributions in your data, and to compute measures of central tendency and spread
+- Incorporate your R code into your R markdown document
 
 ### Week 9: Practical
 
