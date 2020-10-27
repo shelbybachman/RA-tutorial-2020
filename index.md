@@ -87,7 +87,7 @@
 - Write some R code to apply methods from the readings to visualize and understand distributions in your data, and to compute measures of central tendency and spread
 - Incorporate your R code into your R markdown document
 
-### Week 9: Practical
+### Week 9: Correlation & sampling distributions
 
 **Readings**
 - [This tutorial](https://tinystats.github.io/teacups-giraffes-and-statistics/05_correlation.html) on correlation and covariance
