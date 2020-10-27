@@ -89,6 +89,14 @@
 
 ### Week 9: Practical
 
+**Readings**
+- [This tutorial](https://tinystats.github.io/teacups-giraffes-and-statistics/05_correlation.html) on correlation and covariance
+- [This tutorial](https://tinystats.github.io/teacups-giraffes-and-statistics/06_standardError.html) on sampling distributions and standard errors
+
+**Tasks**
+- Write some R code to apply methods from the readings to (a) create scatterplots reflecting associations between variables in your data, (b) perform correlation analyses reflecting those associations, (c) compute standard errors/confidence intervals on the mean values for some variables in your data
+- Incorporate your R code into your R markdown document
+
 ### Week 10: Methods, TBA
 
 ### Week 11: Methods, TBA
