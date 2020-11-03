@@ -130,6 +130,8 @@ Wickham, H. & Grolemund, G. *R for Data Science*. [https://r4ds.had.co.nz/](http
 
 [example_script.R](https://drive.google.com/file/d/1aBXjcbxlCJy8HSl7hnBTpQC__XKvrYh8/view?usp=sharing)
 
+[example_Rmarkdown.Rmd](https://drive.google.com/file/d/1nuHhdbqDWroWrqRTl6CE_UG6cBtrQYJE/view?usp=sharing)
+
 ## Useful links
 
 [swirl](https://swirlstats.com/students.html): learn R interactively
