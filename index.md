@@ -97,15 +97,32 @@
 - Write some R code to apply methods from the readings to (a) create scatterplots reflecting associations between variables in your data, (b) perform correlation analyses reflecting those associations, (c) compute standard errors/confidence intervals on the mean values for some variables in your data
 - Incorporate your R code into your R markdown document
 
-### Week 10: Methods, TBA
+### Week 10: Comparing two means
 
-### Week 11: Methods, TBA
+**Readings**
+- (If you need a refresher on hypothesis testing & *p*-values) *LSR* Chapter 11
+- *LSR*, Chapter 13
+- [The first three sections of this chapter](http://www.sthda.com/english/wiki/comparing-means-in-r) on comparing means
+
+**Tasks**
+- Write R code to compare two groups or conditions in your data using appropriate *t*-tests. Evaluate and summarize what the test results mean, and add relevant code, output, and summary text to your R markdown document
+
+### Week 11: Comparing three or more means & factorial ANOVA
+
+**Readings**
+- *LSR*, Chapters 14 & 16
+- [The final section of this chapter](http://www.sthda.com/english/wiki/comparing-means-in-r) on comparing means
+
+**Tasks**
+- Write R code to  perform factorial ANOVA on your data, to compare groups and/or conditions. Evaluate and summarize what the test results mean, and add relevant code, output, and summary text to your markdown document
 
 ## Books & Resources
 
 Gandrud, C. (2020). *Reproducible Research with R and RStudio* (3rd edition). Chapman & Hall.
 
 Healy, K. *Data Visualization: A practical introduction*. [https://socviz.co/](https://socviz.co/)
+
+Navarro, D. *Learning Statistics with R*. [https://learningstatisticswithr.com/book/](https://learningstatisticswithr.com/book/)
 
 Wickham, H. & Grolemund, G. *R for Data Science*. [https://r4ds.had.co.nz/](https://r4ds.had.co.nz/)
 
