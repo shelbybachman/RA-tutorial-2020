@@ -128,9 +128,11 @@ Wickham, H. & Grolemund, G. *R for Data Science*. [https://r4ds.had.co.nz/](http
 
 ## Demos
 
-[example_script.R](https://drive.google.com/file/d/1aBXjcbxlCJy8HSl7hnBTpQC__XKvrYh8/view?usp=sharing)
+[example script](https://drive.google.com/file/d/1aBXjcbxlCJy8HSl7hnBTpQC__XKvrYh8/view?usp=sharing)
 
-[example_Rmarkdown.Rmd](https://drive.google.com/file/d/1nuHhdbqDWroWrqRTl6CE_UG6cBtrQYJE/view?usp=sharing)
+[example R markdown document](https://drive.google.com/file/d/1nuHhdbqDWroWrqRTl6CE_UG6cBtrQYJE/view?usp=sharing)
+
+[example script: *t*-test & ANOVA](https://drive.google.com/file/d/11R6Y_P_1Kw_ZPxmFmn40JnULkU-r1V__/view?usp=sharing)
 
 ## Useful links
 
