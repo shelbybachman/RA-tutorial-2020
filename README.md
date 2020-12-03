@@ -1,5 +1,3 @@
-# RA Tutorial, Fall 2020
-
 ## Schedule
 
 ### Week 1: Review of R basics
