@@ -1,3 +1,5 @@
+This tutorial covers R syntax, the tidyverse, R markdown and basic statistics.
+
 ## Schedule
 
 ### Week 1: Review of R basics
